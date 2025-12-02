@@ -189,13 +189,15 @@ const Hero = () => {
                         className="mt-12 flex justify-center gap-6"
                     >
                         {[
-                            { icon: Github, href: "#", label: "GitHub" },
+                            { icon: Github, href: "https://github.com/shilpakar43", label: "GitHub" },
                             { icon: Linkedin, href: "#", label: "LinkedIn" },
                             { icon: Mail, href: "mailto:hello@example.com", label: "Email" }
                         ].map((social, index) => (
                             <motion.a
                                 key={index}
                                 href={social.href}
+                                target="_blank"
+                                rel="noopener noreferrer"
                                 className="p-3 bg-gray-800/50 backdrop-blur-sm rounded-full text-gray-400 hover:text-white transition-all relative group"
                                 whileHover={{
                                     scale: 1.1,
