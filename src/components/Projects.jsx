@@ -13,11 +13,11 @@ const Projects = () => {
             demo: '#',
         },
         {
-            title: 'Task Management App',
-            description: 'A productivity tool for managing daily tasks and projects. Includes drag-and-drop functionality and real-time updates.',
-            tags: ['React', 'Firebase', 'Tailwind CSS'],
-            image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80',
-            github: '#',
+            title: 'Web Messenger',
+            description: 'A real-time messaging application enabling instant communication. Features include private messaging, group chats, and media sharing.',
+            tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'SQL'],
+            image: 'https://github.com/shilpakar43/Nesta/blob/master/icon/nesta.png?raw=true',
+            github: 'https://github.com/shilpakar43/Nesta',
             demo: '#',
         },
         {

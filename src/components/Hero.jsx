@@ -4,7 +4,7 @@ import { ArrowRight, Github, Linkedin, Mail, ChevronDown } from 'lucide-react';
 
 const Hero = () => {
     const [typedText, setTypedText] = useState('');
-    const fullName = "RIKESH SHILPAKAR";
+    const fullName = "Rikesh Shilpakar";
     const controls = useAnimation();
 
     // Typing animation effect

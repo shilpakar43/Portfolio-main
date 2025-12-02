@@ -24,14 +24,14 @@ const About = () => {
                         transition={{ duration: 0.5, delay: 0.2 }}
                         className="text-center"
                     >
-                        <h3 className="text-2xl font-semibold text-white mb-6">
-                            Passionate Developer based in <span className="text-primary">Kathmandu, Nepal</span>
-                        </h3>
+                        <p className="text-gray-400 mb-6 leading-relaxed text-lg">
+                            Hi! I'm <span className="text-primary font-semibold">Rikesh </span>, a motivated and enthusiastic learner on my journey to become a skilled software developer. I’m passionate about building clean, user-friendly web applications and constantly learning new technologies.
+                        </p>
                         <p className="text-gray-400 mb-6 leading-relaxed">
-                            As a Computer Science graduate, I bring a strong foundation in software development principles and a hunger to learn. I specialize in building modern web applications using React and the latest web technologies.
+                            I enjoy solving problems through code and creating experiences that are both functional and beautiful. I’m especially interested in frontend development, design systems, and user experience.
                         </p>
                         <p className="text-gray-400 mb-8 leading-relaxed">
-                            My journey in coding started with a curiosity about how things work on the internet. Today, I focus on writing clean, maintainable code and creating intuitive user experiences. I'm always looking for new challenges and opportunities to grow as a developer.
+                            I'm currently seeking opportunities to grow, collaborate, and contribute to impactful projects that make a difference.
                         </p>
 
                         <div className="grid grid-cols-2 gap-6 max-w-lg mx-auto">
