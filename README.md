@@ -1,4 +1,4 @@
-# 🚀 Modern Portfolio Template
+# 🚀 Model Portfolio Template
 
 A stunning, fully responsive portfolio website built with React, Vite, Tailwind CSS, and Framer Motion. This template features smooth animations, modern UI design, and is easily customizable for developers, designers, and creatives.
 
@@ -36,8 +36,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/portfolio-template.git
-cd portfolio-template
+git clone https://github.com/shilpakar43/portfolio-main
+cd portfolio-main
 ```
 
 ### 2. Install Dependencies

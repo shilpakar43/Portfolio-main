@@ -149,8 +149,7 @@ const Hero = () => {
                             transition={{ delay: 0.5, duration: 0.8 }}
                         >
                             <p className="text-gray-300 text-xl max-w-2xl mx-auto leading-relaxed">
-                                I turn ideas into real products with clean code and modern UI. <br />
-                                I help businesses build scalable, fast, and user-friendly applications.
+                                I’m driven by curiosity and creativity, always eager to improve my skills, explore modern frameworks, and turn ideas into intuitive digital solutions that users love.
                             </p>
                         </motion.div>
                     </motion.div>
@@ -191,7 +190,7 @@ const Hero = () => {
                         {[
                             { icon: Github, href: "https://github.com/shilpakar43", label: "GitHub" },
                             { icon: Linkedin, href: "#", label: "LinkedIn" },
-                            { icon: Mail, href: "mailto:hello@example.com", label: "Email" }
+                            { icon: Mail, href: "mailto:urika.76ijr@aleeas.com?subject=from%20portfolio", label: "Email" }
                         ].map((social, index) => (
                             <motion.a
                                 key={index}

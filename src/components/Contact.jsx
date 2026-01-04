@@ -30,7 +30,7 @@ const Contact = () => {
                         </p>
 
                         <div className="space-y-6">
-                            <div className="flex items-center gap-4">
+                            <a href="mailto:urika.76ijr@aleeas.com?subject=from%20portfolio" className="flex items-center gap-4 hover:opacity-80 transition-opacity">
                                 <div className="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center text-primary">
                                     <Mail className="w-6 h-6" />
                                 </div>
@@ -38,7 +38,7 @@ const Contact = () => {
                                     <h4 className="text-white font-medium">Email</h4>
                                     <p className="text-gray-400">urika.76ijr@aleeas.com</p>
                                 </div>
-                            </div>
+                            </a>
 
                             <div className="flex items-center gap-4">
                                 <div className="w-12 h-12 bg-gray-800 rounded-full flex items-center justify-center text-primary">
