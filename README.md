@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/portfolio-template.git
+git clone https://github.com/shilpakar43/portfolio-main
 cd portfolio-template
 ```
 
@@ -60,7 +60,7 @@ Your portfolio will be running at `http://localhost:5173/`
 
 ## 🎨 Customization Guide
 
-### Update Personal Information
+### Update Your Personal Information
 
 #### **Hero Section** (`src/components/Hero.jsx`)
 ```javascript
