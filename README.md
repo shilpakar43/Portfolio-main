@@ -1,6 +1,6 @@
-# 🚀 Modern Portfolio Template
+# 🚀 Model Portfolio Template
 
-A stunning, fully responsive portfolio website built with React, Vite, Tailwind CSS, and Framer Motion. This template features smooth animations, modern UI design, and is easily customizable for developers, designers, and creatives.
+A fully responsive portfolio website built with React, Vite, Tailwind CSS, and Framer Motion. This template features smooth animations, modern UI design, and is easily customizable for developers, designers, and creatives.
 
 ![Portfolio Preview](https://img.shields.io/badge/React-18.3.1-blue) ![Vite](https://img.shields.io/badge/Vite-6.0.1-646CFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-38B2AC) ![License](https://img.shields.io/badge/License-MIT-green)
 
